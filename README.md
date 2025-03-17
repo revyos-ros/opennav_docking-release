@@ -1,3 +1,33 @@
+## opennav_docking (humble) - 0.0.2-5
+
+The packages in the `opennav_docking` repository were released into the `humble` distro by running `/root/venv/bin/bloom-release -r humble opennav_docking --override-release-repository-push-url git@github.com:revyos-ros/opennav_docking-release.git` on `Mon, 17 Mar 2025 14:33:12 -0000`
+
+These packages were released:
+- `opennav_docking`
+- `opennav_docking_bt`
+- `opennav_docking_core`
+- `opennav_docking_msgs`
+
+These packages were explicitly ignored:
+- `nova_carter_docking`
+
+Version of package(s) in repository `opennav_docking`:
+
+- upstream repository: https://github.com/open-navigation/opennav_docking.git
+- release repository: https://github.com/revyos-ros/opennav_docking-release.git
+- rosdistro version: `0.0.2-4`
+- old version: `0.0.2-4`
+- new version: `0.0.2-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## opennav_docking (humble) - 0.0.2-4
 
 The packages in the `opennav_docking` repository were released into the `humble` distro by running `/usr/bin/bloom-release opennav_docking --track humble --rosdistro humble` on `Wed, 05 Jun 2024 16:39:06 -0000`
